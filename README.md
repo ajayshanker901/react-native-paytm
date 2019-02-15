@@ -5,7 +5,7 @@ Updated it to work with the latest version of react-native and latest PayTM SDK.
 
 ## Getting started
 
-Alert: Built and tested only for iOS.
+Alert: Built and tested only for iOS and only working for production Credentials.
 
 ### installation
 
